@@ -1,4 +1,4 @@
-# **CyberLyon — Cybersecurity Blog**
+# **CyberLyon - Cybersecurity Blog**
 
 ## **Project Type**
 **Cybersecurity Blog · Technical Documentation · Security Education**
