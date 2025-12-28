@@ -85,7 +85,7 @@ CyberLyon is a **Hugo-based cybersecurity blog** developed to document hands-on 
 
 ## **Screenshots & Visual Evidence**
 
-![Home Network Diagram](https://github.com/Pelumi-Johnson/Packet-Tracer-Device-Deployment-Network-Cabling-Lab/blob/main/Screenshot%202025-11-30%20190442.png)
+![Home Network Diagram](https://github.com/Pelumi-Johnson/CyberLyon-Cybersecurity-Blog-Learning-Journal/blob/main/Screenshot%202025-12-27%20230734.png)
 
 ### **Recommended Filenames**
 - `blog-home.png`  
