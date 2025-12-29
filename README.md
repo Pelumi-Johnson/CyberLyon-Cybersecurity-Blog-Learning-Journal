@@ -15,7 +15,7 @@ CyberLyon is a **Hugo-based cybersecurity blog** developed to document hands-on 
 
 ---
 
-## **Key Features**
+## ✅ **Key Features**
 - **Structured cybersecurity blog** with categorized posts and archives  
 - **Search functionality** for efficient knowledge retrieval  
 - **Cyber Comics section** for visual security education  
@@ -24,7 +24,7 @@ CyberLyon is a **Hugo-based cybersecurity blog** developed to document hands-on 
 
 ---
 
-## **Key Technical Learning & Customizations**
+## 🛠️ **Key Technical Learning & Customizations**
 - Customized a **Hugo site** using an existing theme as a foundation  
 - Implemented **structured content** using front matter fields:  
   **title, description, slug, layout, type**  
@@ -37,7 +37,7 @@ CyberLyon is a **Hugo-based cybersecurity blog** developed to document hands-on 
 
 ---
 
-## **Technologies Used**
+## 📌 **Technologies Used**
 - **Hugo** (Static Site Generator)  
 - **Hugo Stack Theme** (customized)  
 - **Git & GitHub**  
@@ -46,7 +46,7 @@ CyberLyon is a **Hugo-based cybersecurity blog** developed to document hands-on 
 
 ---
 
-## **Project Structure (Simplified)**
+## 🗂️ **Project Structure (Simplified)**
 
 ```text
 /
