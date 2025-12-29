@@ -11,7 +11,7 @@ CyberLyon is a **Hugo-based cybersecurity blog** developed to document hands-on 
 ---
 
 ## **🌐 Live Site**
-**[https://www.cyberlyon.blog/](https://www.cyberlyon.blog/)**
+**[https://www.cyberlyon.blog/](https://www.cyberlyon.blog)**
 
 ---
 
