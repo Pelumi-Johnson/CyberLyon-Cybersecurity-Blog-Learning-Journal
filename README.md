@@ -107,12 +107,6 @@ This project demonstrates:
 
 ---
 
-## 📄 **Resume-Ready Project Description**
-
-**Built and customized a Hugo-based cybersecurity blog** to document labs, troubleshoot technical issues, and communicate security concepts through structured technical writing, Git-based workflows, and static-site deployment.
-
----
-
 ## **Future Enhancements**
 
 - Expand **Cyber Comics** for security awareness and education  
@@ -121,11 +115,6 @@ This project demonstrates:
 - Improve **accessibility, performance, and content organization**
 
 ---
-
-## 👤 **Author**
-
-**Pelumi Johnson**  
-**Cybersecurity Analyst** · **SOC & Cloud Security Focus**
 
 **LinkedIn:** https://www.linkedin.com/in/pelumi-johnson  
 **Blog:** [https://www.cyberlyon.blog](https://www.cyberlyon.blog/)
