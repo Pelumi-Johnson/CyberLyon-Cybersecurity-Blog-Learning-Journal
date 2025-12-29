@@ -83,7 +83,7 @@ CyberLyon is a **Hugo-based cybersecurity blog** developed to document hands-on 
 |-- vercel.json
 ```
 
-## **Screenshots & Visual Evidence**
+## 🖼️ **Screenshots & Visual Evidence**
 
 ![Home Network Diagram](https://github.com/Pelumi-Johnson/CyberLyon-Cybersecurity-Blog-Learning-Journal/blob/main/Screenshot%202025-12-27%20230734.png)
 
