@@ -89,7 +89,7 @@ CyberLyon is a **Hugo-based cybersecurity blog** developed to document hands-on 
 
 ### **Website Pages Preview**
 ![Blog Home](https://github.com/Pelumi-Johnson/CyberLyon-Cybersecurity-Blog-Learning-Journal/blob/main/Screenshot%202025-12-28%20230447.png)
-![Cyber Comics](https://github.com/Pelumi-Johnson/CyberLyon-Cybersecurity-Blog-Learning-Journal/blob/main/Screenshot%202025-12-27%20233001.png)
+![Cyber Comics](https://github.com/Pelumi-Johnson/CyberLyon-Cybersecurity-Blog-Learning-Journal/blob/main/Screenshot%202025-12-28%20230807.png)
 ![Search Page](assets/screenshots/search-page.png)
 ![Layout Fix](assets/screenshots/layout-fix.png)
 
